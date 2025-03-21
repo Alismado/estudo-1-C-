@@ -1,0 +1,14 @@
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\bin\Debug\net9.0\estudo 1.exe
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\bin\Debug\net9.0\estudo 1.deps.json
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\bin\Debug\net9.0\estudo 1.runtimeconfig.json
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\bin\Debug\net9.0\estudo 1.dll
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\bin\Debug\net9.0\estudo 1.pdb
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\estudo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\estudo 1.AssemblyInfoInputs.cache
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\estudo 1.AssemblyInfo.cs
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\estudo 1.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\estudo 1.dll
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\refint\estudo 1.dll
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\estudo 1.pdb
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\estudo 1.genruntimeconfig.cache
+C:\Users\Alisson\Documents\byte\estudos C#\estudo 1\estudo 1\obj\Debug\net9.0\ref\estudo 1.dll
